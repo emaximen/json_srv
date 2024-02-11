@@ -1,6 +1,5 @@
 {
-  "Event": 
-  {
+  "Event": {
     "type": "network enent",
     "immediateFlag": "true",
     "refId": "1xx2"
